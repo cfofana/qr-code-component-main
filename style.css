@@ -1,0 +1,30 @@
+:root {
+    --clr-300 : hsl(212, 45%, 89%);
+    --clr-500 : hsl(216, 15%, 48%);
+    --clr-900 : hsl(218, 44%, 22%);
+    --clr-white: hsl(0, 0%, 100%);
+
+    --ff-body: "Outfit", serif;
+}
+
+body {
+    background-color: var(--clr-300);
+    font-size: 15px;
+    font-family: var(--ff-body);
+}
+
+.container {
+    margin: 0 auto;
+    width: 350px;
+    max-width: 500px;
+    text-align: center;
+    background-color: var(--clr-white);
+    border-radius: 10px;
+    padding: 0.5em;
+    margin-bottom: 5em;
+}
+
+.img {
+    width: 100%;
+    border-radius: 10px;
+}
