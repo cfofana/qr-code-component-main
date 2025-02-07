@@ -27,7 +27,7 @@ A way to practice HTML and CSS skills for beginners. It is basic and does not de
 ### Links
 
 - Solution URL: [https://github.com/cfofana/qr-code-component-main](https://github.com/cfofana/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://cfofana.github.io/qr-code-component-main/](https://cfofana.github.io/qr-code-component-main/)
 
 
 ### Built with
