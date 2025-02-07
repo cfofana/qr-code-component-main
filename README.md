@@ -26,7 +26,7 @@ A way to practice HTML and CSS skills for beginners. It is basic and does not de
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/cfofana/qr-code-component-main](https://github.com/cfofana/qr-code-component-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
@@ -44,9 +44,9 @@ Reinforcing and remembering concepts learned like setting the radius of an image
 
 ## Author
 
-- Website - [Add your name here](https://www.ceesayfofana.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/cfofana)
-- LinkedIn - [@ceesayfofana](www.linkedin.com/in/ceesay)
+- Website - [Ceesay Fofana](https://www.ceesayfofana.com)
+- Frontend Mentor - [@cfofana](https://www.frontendmentor.io/profile/cfofana)
+- LinkedIn - [@ceesay](www.linkedin.com/in/ceesay)
 
 
 
